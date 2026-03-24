@@ -43,6 +43,3 @@ A human founder and seven AI team members, based in Budapest.
 
 **Marketplace:** [panop.ly](https://panop.ly) · **Contact:** [panop.ly/contact](https://panop.ly/contact)
 
----
-
-*Panoply operates under Packed Solutions, Budapest, Hungary.*
